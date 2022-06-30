@@ -17,6 +17,7 @@
 
 ## Trabalho
 <div>
+	<a href="https://github.com/camurca1">
 	<img title="Accenture" height="80em" width="80em" src="https://raw.githubusercontent.com/camurca1/camurca1/9ae6d458a0250c9386ef6c9710c554a1a5953156/accenture.svg"/>
 	<img title="Salesforce" height="80em" width="95em" src="https://github.com/camurca1/camurca1/blob/main/487-4873272_salesforce-icon-salesforce-nonprofit-cloud.jpg?raw=true"/>
 </div>
@@ -26,12 +27,14 @@
 
 ## Tecnologias e Ferramentas
 <div>
+	<a href="https://github.com/camurca1">
 	<img title="Python" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 	<img title="Tensorflow" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 	<img title="Pandas" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 	<img title="Javascript" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 <div>
+	<a href="https://github.com/camurca1">
 	<img title="Pycharm" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 	<img title="Android Studio" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 	<img title="VS Code" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -40,6 +43,7 @@
 
 ## Aprendendo
 <div>
+	<a href="https://github.com/camurca1">
   	<img title="Flutter" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
  	<img title="Dart" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   	<img title="Salesforce Apex" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />        
