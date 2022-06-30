@@ -1,4 +1,4 @@
-### Olá, sou o Camurça!
+### Olá, sou o Camurça! <img title="Accenture" height="80em" width="80em" src="https://github.com/camurca1/camurca1/blob/main/octocat-1656548072949.png?raw=true"/>
 
 ## Trabalho atual
 <div>
