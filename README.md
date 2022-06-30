@@ -1,6 +1,3 @@
-<style>
-	img {pointer-events: none}
-</style>
 <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/camurca1/camurca1/blob/main/octocat-1656548072949.png?raw=true">
 
 </br>
