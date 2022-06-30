@@ -1,12 +1,15 @@
+<style>
+	img {pointer-events: none}
+</style>
 <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/camurca1/camurca1/blob/main/octocat-1656548072949.png?raw=true">
 
 </br>
 </br>
 
-<div dsplay="inline-block">
+<div dsplay="inline-block" >
 	<h1 align="left">Camurça.Dev</h1>
 	<a href = "mailto:alexandre.camurca2@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+		<img unselectable="on" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	<a href="https://www.linkedin.com/in/alexandrecamurca" target="_blank">
 		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
