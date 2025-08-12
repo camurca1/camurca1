@@ -20,7 +20,6 @@
 ## Trabalho
 <div>
 	<a href="https://github.com/camurca1">
-	<img title="Accenture" height="80em" width="80em" src="https://raw.githubusercontent.com/camurca1/camurca1/9ae6d458a0250c9386ef6c9710c554a1a5953156/accenture.svg"/>
 	<img title="Salesforce" height="80em" width="95em" src="https://github.com/camurca1/camurca1/blob/main/487-4873272_salesforce-icon-salesforce-nonprofit-cloud.jpg?raw=true"/>
 </div>
 
